@@ -1,6 +1,6 @@
-# Demo Scrapper in Python
+# Demo Scraper in Python
 
-A simple scrapper that scrape quotes from http://quotes.toscrape.com/
+A simple scraper that scrape quotes from http://quotes.toscrape.com/
 
 
 ### Quote Game
