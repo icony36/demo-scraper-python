@@ -5,4 +5,4 @@ A simple scraper that scrape quotes from http://quotes.toscrape.com/
 
 ### Quote Game
 
-Run quote_game.py to play a mini game, guess the author of the quote to win!
+Run quote_game.py to play game, guess the author of the quote to win!
